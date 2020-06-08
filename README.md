@@ -1,0 +1,2 @@
+# horoscope
+Horoscope generator
